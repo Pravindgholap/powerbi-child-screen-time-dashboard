@@ -30,7 +30,6 @@ This project presents an interactive Power BI dashboard that explores **screen t
 ## 🖼️ Dashboard Preview
 
 ![Dashboard Screenshot](screenshots/dashboard.png)  
-_(Add this screenshot to a folder named `/screenshots/`)_
 
 ---
 
